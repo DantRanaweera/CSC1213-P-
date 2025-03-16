@@ -1,1 +1,17 @@
+Date: 12/03/2025
+Practical no: 01
+Problem Specification: print statments
+Implementation:   
+class ex01{
+    public static void main (String[] args){
+        System.out.println("My First Program");
+        System.out.println("Hello Java Developers!!!");
+
+    }
+}
+
+output: 
+My First Program
+Hello Java Developers!!!
+conclution: learnd about how to print simple statements by using java
 
