@@ -1,0 +1,16 @@
+Date:12/03/2025
+Practical no:06:
+Problem Specification:print statement by using your details
+Implementation:
+class ex06{
+    public static void main (String[] args){
+        System.out.println("Name: Danthula \nLast Name: Ranaweera \nAdress: Polhengoda Road,Colombo 05");
+        
+
+    }
+}
+Output:
+Name: Danthula 
+Last Name: Ranaweera 
+Adress: Polhengoda Road,Colombo 05
+Conclusion:Learnd about hoe to use "\n" in java
