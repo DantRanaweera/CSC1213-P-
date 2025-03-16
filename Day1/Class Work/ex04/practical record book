@@ -1,0 +1,31 @@
+Date: 12/03/2025
+Practical no:04
+Problem Specification:Print statement by using your details
+Implementation:
+class ex04{
+    public static void main (String[] args){
+        System.out.println("Name: Danthula Ranaweera");
+        System.out.println("Reg NO: 2022/ASP/03");
+        System.out.println("Degree Program: Applied Mathematics And Computing");
+
+        String Name = "Danthula Ranaweera";
+        String RegNo = "2022/ASP/03";
+        String Degree = "Applied Mathematics And Computing";
+
+        System.out.println("Full Name: " + Name);
+        System.out.println("Reg No: " + RegNo);
+        System.out.println("Degree Program: " + Degree);
+
+
+
+
+    }
+}
+output:
+Name: Danthula Ranaweera
+Reg NO: 2022/ASP/03
+Degree Program: Applied Mathematics And Computing
+Full Name: Danthula Ranaweera
+Reg No: 2022/ASP/03
+Degree Program: Applied Mathematics And Computing
+Conclution:Learnd about how to use variables
